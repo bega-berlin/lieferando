@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: lieferando
+name: Lieferando
+tagline: Lieferando App
+icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmz8cr6OGFFoideAjS5wBbX6Xwa76OehtvlA&s
+category: Food
+version: "1.0.0"
+port: 85
+description: >-
+  Lieferando App for Umbrel OS. This app provides a simple web server using Nginx to serve static HTML content.
+
+developer: BEGA
+website: https://lieferando.de
+submitter: BEGA
+submission: https://github.com/bega-berlin/lieferando
+repo: https://github.com/bega-berlin/lieferando
+support: https://pleaseshuthefuckup.com
+releaseNotes: >-
+  Lieferando App initial release.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
